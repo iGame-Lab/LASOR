@@ -8,10 +8,9 @@
 
 ### Performance
 
-<div style="text-align=center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9lc7dYCxskQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
+<center>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/9lc7dYCxskQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
 
 
