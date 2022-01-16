@@ -1,6 +1,7 @@
 ## Welcome to LASOR
 
-### LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering
+### LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering 
+[Paper](https://arxiv.org/abs/2108.00351)
 
 ### Abstract
 
