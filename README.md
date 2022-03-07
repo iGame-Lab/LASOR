@@ -3,7 +3,7 @@
 Code repository for the paper:  
 **LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering**  
 Kaibing Yang; Renshu Gu; Maoyu Wang; Masahiro Toyoura; Gang Xu
-IEEE TIP 2022
+IEEE Transactions on Image Processing 2022
 [[paper](https://ieeexplore.ieee.org/document/9709705)]
 
 ![pipeline](pipeline.png)
@@ -68,7 +68,16 @@ If you are running inference on a remote machine, you might run into problems ge
 
 If you find this code useful in your research, please cite the following publication:
 ```
-@ARTICLE{9709705,  author={Yang, Kaibing and Gu, Renshu and Wang, Maoyu and Toyoura, Masahiro and Xu, Gang},  journal={IEEE Transactions on Image Processing},   title={LASOR: Learning Accurate 3D Human Pose and Shape via Synthetic Occlusion-Aware Data and Neural Mesh Rendering},   year={2022},  volume={31},  number={},  pages={1938-1948},  doi={10.1109/TIP.2022.3149229}}
+@ARTICLE{9709705,  
+  author={Yang, Kaibing and Gu, Renshu and Wang, Maoyu and Toyoura, Masahiro and Xu, Gang},  
+  journal={IEEE Transactions on Image Processing},   
+  title={LASOR: Learning Accurate 3D Human Pose and Shape via Synthetic Occlusion-Aware Data and Neural Mesh Rendering},   
+  year={2022},  
+  volume={31},  
+  number={},  
+  pages={1938-1948},  
+  doi={10.1109/TIP.2022.3149229}
+}
 ```
 
 
