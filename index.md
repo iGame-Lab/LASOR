@@ -1,7 +1,7 @@
 ## Welcome to LASOR
 
 ### LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering 
-[Paper](https://arxiv.org/abs/2108.00351)
+[Paper](https://arxiv.org/abs/2108.00351) [Code](https://github.com/iGame-Lab/LASOR) 
 
 ### Abstract
 
@@ -20,13 +20,15 @@ A key challenge in the task of human pose and shape estimation is occlusion, inc
 ### BibTeX
 
 ```latex
-@misc{yang2022lasor,
-      title={LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering}, 
-      author={Kaibing Yang and Renshu Gu and Maoyu Wang and Masahiro Toyoura and Gang Xu},
-      year={2022},
-      eprint={2108.00351},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@ARTICLE{9709705,  
+  author={Yang, Kaibing and Gu, Renshu and Wang, Maoyu and Toyoura, Masahiro and Xu, Gang},  
+  journal={IEEE Transactions on Image Processing},   
+  title={LASOR: Learning Accurate 3D Human Pose and Shape via Synthetic Occlusion-Aware Data and Neural Mesh Rendering},   
+  year={2022},  
+  volume={31},  
+  number={},  
+  pages={1938-1948},  
+  doi={10.1109/TIP.2022.3149229}
 }
 ```
 
