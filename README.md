@@ -3,6 +3,7 @@
 Code repository for the paper:  
 **LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering**  
 Kaibing Yang; Renshu Gu; Maoyu Wang; Masahiro Toyoura; Gang Xu
+
 IEEE Transactions on Image Processing 2022
 [[paper](https://ieeexplore.ieee.org/document/9709705)]
 
